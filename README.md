@@ -7,7 +7,7 @@
 
 2. encodes password into base64,
 
-3. then saves the info in DataBase.
+3. saves the info in DataBase.
 
-### For testing.. The records are displayed at the end of the Program. 
+4. The records are displayed at the end of the Program. 
 
