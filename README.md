@@ -9,5 +9,5 @@
 
 3. saves the info in DataBase.
 
-4. The records are displayed at the end of the Program. 
+4. the records are displayed at the end of the Program. 
 
