@@ -1,9 +1,13 @@
 # SQLite
 ## The Simple implemented Example of SQLite in Python
 
-This python script takes username and password,
-encodes password into base64,
-then saved the info in DataBase.
+### This python script does the following:
 
-For testing.. The records are displayed at the end of the Program. 
+1. takes username and password,
+
+2. encodes password into base64,
+
+3. then saves the info in DataBase.
+
+### For testing.. The records are displayed at the end of the Program. 
 
